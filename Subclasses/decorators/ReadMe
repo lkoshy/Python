@@ -1,0 +1,16 @@
+Consequences od Decorator pattern
+1. more flexible than static inheritance
+2. keeps things simple
+3. no practical limit to decorations
+4. transparent to clients
+
+
+Decorator pattern Vs Python decorators(@decorator)
+ DP: Implemented with class definitions derived from concrete base class,
+        wrap class instance,
+        run time decoration
+ PD: Implemented with function definitions.
+     wrap function or class definitions,
+     compile time decoration
+
+
